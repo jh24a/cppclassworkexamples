@@ -1,0 +1,5 @@
+John Doe    6500
+Mary Doe    230
+Juan Lopez  50
+Larry Smith 7
+Nancy Garza 30
